@@ -70,3 +70,19 @@ For example, to add a `mechanic` job:
     sprite = 402, -- Wrench icon
     scale = 0.8
 }
+
+## Planned Features
+- **Blip Visibility Toggle**: Add an option for players to toggle their blip visibility on/off.
+- **More ESX Integration**: Support for extended job grades and off-duty roles.
+- **Job-Specific Filters**: Customize who can see whose blips (e.g., supervisors only).
+
+---
+
+## Support
+Feel free to open an issue if you encounter any bugs or need assistance.
+
+---
+
+## License
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this script with proper attribution.
+
